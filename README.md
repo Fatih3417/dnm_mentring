@@ -1,1 +1,1 @@
-# deneme_ment-ring
+# dnm_mentring
